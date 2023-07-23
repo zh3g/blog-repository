@@ -25,4 +25,3 @@ git pull origin hexo
 # 最终结果
 我现在的情况是
 新建一个source仓库，然后将hexo的source文件夹的内容上传到仓库中，之后在其他平台，如手机 先git clone在进行手动将source文件夹里的内容更新
-对对对，自己对自己的肯定
