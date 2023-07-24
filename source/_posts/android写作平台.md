@@ -18,3 +18,6 @@ categories: 个人
 1. 支持云同步
 2. 有免费空间
 好,然我们在结尾处再次感谢 **许子旋同学**!
+3. 支持多平台:包括但不限于windows ubuntu android macos具体可以到[官网](https://www.jianguoyun.com/s/downloads)查看
+4. 支持实时同步 确实不错
+5. 支持各类**快捷键**
